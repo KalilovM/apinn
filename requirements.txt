@@ -4,3 +4,7 @@ fastapi==0.97.0
 matplotlib==3.7.1
 uvicorn==0.22.0
 python-multipart==0.0.6
+ultralytics==8.0.120
+websockets==11.0.3
+asyncio==3.4.3
+greenlet==2.0.2
